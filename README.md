@@ -13,7 +13,7 @@ Report Generation: Merging insights from both models to create detailed, visuall
 For queries, contact: malikrahil77@gmail.com.
 
 
-
+# Detailed Report
 
 
 One of the fundamental techniques in qualitative research is thematic analysis, which is used to find, examine systematically, and document patterns in data. It is also useful in exploratory research where understanding the underlying themes is essential. This flexible method allows researchers to adapt it to various research questions and data types. Virginia Braun and Victoria Clarke formalized a flexible approach to theme identification, it requires researchers to move back and forth across the data, codes, and themes throughout the analysis, making it an inherently iterative method. 
