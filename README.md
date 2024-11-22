@@ -6,9 +6,9 @@ Automating Insight Reports with BERT and BERTopic
 
 This project demonstrates automating the generation of insightful reports by leveraging BERT for text classification and BERTopic for topic modeling. It involves three key components:
 
-Text Classification: Employing BERT to categorize student feedback efficiently.
-Topic Modeling: Using BERTopic to uncover themes and visualize data.
-Report Generation: Merging insights from both models to create detailed, visually engaging reports, saving time and resources.
+- Text Classification: Employing BERT to categorize student feedback efficiently.
+- Topic Modeling: Using BERTopic to uncover themes and visualize data.
+- Report Generation: Merging insights from both models to create detailed, visually engaging reports, saving time and resources.
 
 For queries, contact: malikrahil77@gmail.com.
 
