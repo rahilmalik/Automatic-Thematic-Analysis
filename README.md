@@ -1,5 +1,21 @@
 # Automating Thematic-Analysis
 
+**Here's a little summary, if you want to know more details then simply keep on scrolling and read below**
+
+Automating Insight Reports with BERT and BERTopic
+
+This project demonstrates automating the generation of insightful reports by leveraging BERT for text classification and BERTopic for topic modeling. It involves three key components:
+
+Text Classification: Employing BERT to categorize student feedback efficiently.
+Topic Modeling: Using BERTopic to uncover themes and visualize data.
+Report Generation: Merging insights from both models to create detailed, visually engaging reports, saving time and resources.
+
+For queries, contact: malikrahil77@gmail.com.
+
+
+
+
+
 One of the fundamental techniques in qualitative research is thematic analysis, which is used to find, examine systematically, and document patterns in data. It is also useful in exploratory research where understanding the underlying themes is essential. This flexible method allows researchers to adapt it to various research questions and data types. Virginia Braun and Victoria Clarke formalized a flexible approach to theme identification, it requires researchers to move back and forth across the data, codes, and themes throughout the analysis, making it an inherently iterative method. 
 
 I automate the process of thematic analysis, Using BERT for Text classification and BERTopic for Topic Modelling. Then, I generated a report that showcases the information in a concise format.
