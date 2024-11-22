@@ -12,6 +12,8 @@ This project demonstrates automating the generation of insightful reports by lev
 
 For queries, contact: malikrahil77@gmail.com.
 
+Feel free to contact me for more information or to have a little chat :)
+
 
 # Detailed Report
 
